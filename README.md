@@ -1,6 +1,6 @@
 # Telas de Onboarding
 
-Telas Onboarding apresetado na live 7 do Curso Android Express](https://androiddeveloper.com.br/).
+Telas Onboarding apresetado na live 7 do [Curso Android Express](https://androiddeveloper.com.br/).
 
 ### Padrão Swipeable Pattern
 
